@@ -1,7 +1,7 @@
 ## Introduction
 
 The goal of this project is to explore and develop quantum machine learning models to solve problems in high energy physics. Leveraging the power of quantum computing, we aim to achieve significant advancements in data analysis and simulation for HEP experiments.
-
+As result the quantum networks QGNN were shown to outperform the classical networks GNN you can also refer this [paper](https://arxiv.org/abs/2311.18672)
 ## Tasks
 
 The following tasks are part of the project:
